@@ -11,7 +11,7 @@ This project is a simple implementation of the classic Rock, Paper, Scissors gam
 **Code Structure:**
 The code for this project is organized into a single file, rock_paper_scissors.py, which contains the main game logic and implementation.
 
-How to Run the Game:
+**How to Run the Game:**
 To run the game, simply execute the rock_paper_scissors.py file using Python.
 **python rock_paper_scissors.py** .
 This will start a new game, and you can play by clicking on the Rock, Paper, or Scissors buttons.
